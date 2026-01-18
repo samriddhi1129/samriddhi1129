@@ -1,8 +1,15 @@
-# 💫 About Me:
-I'm currently a 2nd year Computer Science engineering student <br>I'm currently learning Web Development and aspiring AI-ML engineer.<br>I'm looking for internship.<br><br>My tagline: Be you what you are
+# 💫 Samriddhi Bansal
+ 
+  <div style="background: #000; color: #fff; padding: 20px; border-radius: 10px; max-width: 600px; margin: 0 auto; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <p style="font-size: 1.1em; margin: 0; line-height: 1.6;">
+      💻 Building Real-Life Solutions | 🌟 Passionate Problem Solver<br>
+      📍 Mathura, Uttar Pradesh | ✨ Turning Ideas into Reality
+    </p>
+  </div>
+I'm currently a 2nd year Computer Science engineering student <br><br> - Web Developer | AI-ML engineer.<br><b>My tagline: : Be you what you are!
+</b>
 
-
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samriddhi-bansal/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BansalB47333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansalsamriddhi335@gmail.com) 
 
 # 💻 Tech Stack:
