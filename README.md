@@ -1,9 +1,9 @@
-# 💫 Samriddhi Bansal
+#  Samriddhi Bansal
  
   <div style="background: #000; color: #fff; padding: 20px; border-radius: 10px; max-width: 600px; margin: 0 auto; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
     <p style="font-size: 1.1em; margin: 0; line-height: 1.6;">
-      💻 Building Real-Life Solutions | 🌟 Passionate Problem Solver<br>
-      📍 Mathura, Uttar Pradesh | ✨ Turning Ideas into Reality
+       Building Real-Life Solutions |  Passionate Problem Solver<br>
+       Mathura, Uttar Pradesh |  Turning Ideas into Reality
     </p>
   </div>
 I'm currently a 2nd year Computer Science engineering student <br><br> - Web Developer | AI-ML engineer.<br><b>My tagline: : Be you what you are!
